@@ -114,13 +114,14 @@ nav {
     display: flex;
     justify-content: center;
     height: 60vh;
-    width: 70%;
+    width: 80%;
 }
 
 .cover img {
     height: 100%;
     filter: drop-shadow(0px 5px 3px black);
     animation: drop 1.5s ease;
+    width: 80%;
 }
 
 .big-circle {
